@@ -1,2 +1,3 @@
 # Git-Practice
-This repository all about playing with Git
+This repository all about playing with Git.
+
